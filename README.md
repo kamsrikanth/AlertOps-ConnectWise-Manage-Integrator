@@ -15,11 +15,12 @@ With this Inbound Integration, AlertOps will receive tickets posted to particula
 <img src="Images/1.png" height="400" style="border:5px solid #000000;">
 
  2. *On the resulting page, enter the information, including Integration Name (or keep the default), select an Escalation Rule to define the delivery of notifications, and select a Recipient Group. Press Save and note your Integration URL for use in creating the Callback.*
+ <img src="Images/2.png" style="border:5px solid #000000;">
 <br />
 
 ***PART 2: Configure your API Member and Keys within ConnectWise Manage***
 
-<img src="Images/2.png" style="border:5px solid #000000;">
+
 
 1. *Create an API Member for AlertOps within ConnectWise Manage. Select the System menu, and from the resulting options, select Members.* 
 
