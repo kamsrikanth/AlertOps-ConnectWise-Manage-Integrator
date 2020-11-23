@@ -12,7 +12,7 @@ With this Inbound Integration, AlertOps will receive tickets posted to particula
 
  1. *Create a new Inbound Integration by choosing the Inbound Integration sub-menu from the Integrations menu. On the API tab (default) select Add API Integration. On the Detail screen, choose ConnectWise Manage.*
 
-Image 1
+<img src="Images/1.png" alt="Response Options in Mobile Device" height="400" style="border:5px solid #000000;">
 
  2. *On the resulting page, enter the information, including Integration Name (or keep the default), select an Escalation Rule to define the delivery of notifications, and select a Recipient Group. Press Save and note your Integration URL for use in creating the Callback.*
 <br />
