@@ -48,12 +48,11 @@ With this Inbound Integration, AlertOps will receive tickets posted to particula
 - AlertOps Integration URL
 - Integration Client ID
 
-Image 5
+<img src="Images/6.png" style="border:5px solid #000000;">
 
 2. *Once the information is entered and Next is hit, you should receive a success message that you have created your callback within ConnectWise Manage*
 
-Image 5 
-Image 6
+<img src="Images/7.png" style="border:5px solid #000000;">
 
 ***NOTE 2: Once the Script is executed and you receive the notification that the callback has been successfully been created, you can exit the program. When exiting, you will notice an error that states the script did not execute. This is a known issue of the integrator v1.0. You can verify the callback has been created within your ConnectWise Manage environment.***
 
