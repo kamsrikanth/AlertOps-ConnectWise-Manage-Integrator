@@ -40,7 +40,7 @@ With this Inbound Integration, AlertOps will receive tickets posted to particula
 1. *Download the Integrator Script to your Computer and run. You will be prompted to enter the following information*
 
 - Integration Name
-- ConnectWise Manage URL up to the version without a backslash at the end: ie. https://staging.connectwisedev.com/v2020_4 
+- ConnectWise Manage URL up to the version without a backslash at the end: ie."https://staging.connectwisedev.com/v2020_4" 
 - Private Key 
 - Public Key
 - ConnectWise Company ID
