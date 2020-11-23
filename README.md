@@ -19,15 +19,15 @@ With this Inbound Integration, AlertOps will receive tickets posted to particula
 
 ***PART 2: Configure your API Member and Keys within ConnectWise Manage***
 
-Image 2
+<img src="Images/2.png" height="400" style="border:5px solid #000000;">
 
 1. *Create an API Member for AlertOps within ConnectWise Manage. Select the System menu, and from the resulting options, select Members.* 
 
-Image 3
+<img src="Images/3.png" height="400" style="border:5px solid #000000;">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*From the Members page, select the API Members Tab and create a Member for AlertOps and Save*
 
-Image 4
+<img src="Images/4.png" height="400" style="border:5px solid #000000;">
 
 2. *Once you've saved your API Member, navigate to the API Keys Tab. Add new keys and save the values for your public and private keys as soon as they appear. ***Your private key will only be visible once after it is generated.***
 <br />
