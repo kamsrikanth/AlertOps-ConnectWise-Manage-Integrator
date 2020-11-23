@@ -56,7 +56,6 @@ With this Inbound Integration, AlertOps will receive tickets posted to particula
 
 ***NOTE 2: Once the Script is executed and you receive the notification that the callback has been successfully been created, you can exit the program. When exiting, you will notice an error that states the script did not execute. This is a known issue of the integrator v1.0. You can verify the callback has been created within your ConnectWise Manage environment.***
 
-Image 7
 
 ***NOTE 3: This Process Will Create A Callback for the Specified Board. To Send to Multiple Boards, Repeat Execution of the Script for Each Board.***
 
